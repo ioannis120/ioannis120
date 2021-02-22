@@ -1,0 +1,539 @@
+======================
+Proton: 1613580574 experimental-5.13-20210217
+SteamGameId: 205590
+Command: ['/home/ioannis/.steam/debian-installation/steamapps/common/Legends of Pegasus/LoP.exe']
+Options: {'forcelgadd'}
+SteamLinuxRuntime: v0.20210114.1-0-g5a1cbb7
+pressure-vessel: 0.20210126.0+srt1 scout 0.20210127.0
+soldier: 0.20210126.1 soldier 0.20210126.1
+======================
+ERROR: ld.so: object '/home/ioannis/.steam/debian-installation/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/ioannis/.steam/debian-installation/ubuntu12_64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+ERROR: ld.so: object '/home/ioannis/.steam/debian-installation/ubuntu12_64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+ERROR: ld.so: object '/home/ioannis/.steam/debian-installation/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+esync: up and running.
+wine: RLIMIT_NICE is <= 20, unable to use setpriority safely
+wine: Using RTKit to control niceness in the [-15,15] range
+ERROR: ld.so: object '/home/ioannis/.steam/debian-installation/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+783.807:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ntdll.dll" at 000000007BC00000: builtin
+783.808:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+783.808:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B610000: builtin
+783.808:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\wineboot.exe" at 0000000000400000: builtin
+783.808:0028:002c:trace:seh:check_bpf_jit_enable enabled 0x31.
+783.811:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00007FC8AFFF0000: builtin
+783.811:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 0000000061900000: builtin
+783.811:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 00007FC8B0210000: builtin
+ERROR: ld.so: object '/home/ioannis/.steam/debian-installation/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+783.956:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ntdll.dll" at 000000007BC00000: builtin
+783.957:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+783.957:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B610000: builtin
+783.958:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\services.exe" at 0000000000400000: builtin
+783.958:0030:0034:trace:seh:install_bpf Seccomp filters already installed.
+783.961:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00007F4F5B180000: builtin
+783.961:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 0000000061900000: builtin
+783.961:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 00007F4F5B3A0000: builtin
+783.961:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 000000006FBC0000: builtin
+783.963:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 0000000065780000: builtin
+783.963:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000006A700000: builtin
+783.963:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\userenv.dll" at 0000000067D00000: builtin
+ERROR: ld.so: object '/home/ioannis/.steam/debian-installation/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+784.042:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ntdll.dll" at 000000007BC00000: builtin
+784.043:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+784.043:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B610000: builtin
+784.044:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\plugplay.exe" at 0000000000400000: builtin
+784.044:003c:0040:trace:seh:install_bpf Seccomp filters already installed.
+784.046:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00007FDEE5FD0000: builtin
+784.046:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 0000000061900000: builtin
+784.046:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 00007FDEE61F0000: builtin
+784.047:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 000000006FBC0000: builtin
+784.049:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 0000000065780000: builtin
+784.049:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000006A700000: builtin
+784.050:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 00007FDEE5B70000: builtin
+784.050:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 00007FDEE5D30000: builtin
+785.468:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 0000000065000000: builtin
+785.468:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 000000006BEC0000: builtin
+ERROR: ld.so: object '/home/ioannis/.steam/debian-installation/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+785.544:0058:005c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ntdll.dll" at 000000007BC00000: builtin
+785.545:0058:005c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+785.545:0058:005c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B610000: builtin
+785.546:0058:005c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winedevice.exe" at 0000000000400000: builtin
+785.546:0058:005c:trace:seh:install_bpf Seccomp filters already installed.
+785.548:0058:005c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00007F5E63920000: builtin
+785.548:0058:005c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 0000000061900000: builtin
+785.548:0058:005c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 00007F5E63B40000: builtin
+785.549:0058:005c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00007F5E63820000: builtin
+785.549:0058:005c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ntoskrnl.exe" at 0000000067A00000: builtin
+785.565:0058:005c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 000000006FBC0000: builtin
+785.596:0058:0068:trace:seh:NtQueryInformationThread (0xfffffffffffffffe,0,0x1a8f7b0,30,(nil))
+785.607:0058:0064:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\winebus.sys" at 00007F5E637B0000: builtin
+785.609:0058:0064:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 0000000065780000: builtin
+785.609:0058:0064:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000006A700000: builtin
+785.617:0058:0064:trace:seh:NtQueryInformationThread (0xfffffffffffffffe,0,0x147ef70,30,(nil))
+785.637:0058:0064:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\hidclass.sys" at 0000000062C40000: builtin
+785.637:0058:0064:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\winehid.sys" at 000000006B3C0000: builtin
+785.640:0058:0064:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\hid.dll" at 0000000064B80000: builtin
+785.643:0058:0064:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 00007F5E63340000: builtin
+785.643:0058:0064:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 00007F5E63500000: builtin
+785.746:0058:0064:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 0000000065000000: builtin
+785.746:0058:0064:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 000000006BEC0000: builtin
+785.753:0058:0070:trace:seh:NtQueryInformationThread (0xfffffffffffffffe,0,0x209f980,30,(nil))
+785.829:0058:0064:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\wineusb.sys" at 00007F5E615D0000: builtin
+ERROR: ld.so: object '/home/ioannis/.steam/debian-installation/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+785.914:0088:008c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ntdll.dll" at 000000007BC00000: builtin
+785.915:0088:008c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+785.915:0088:008c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B610000: builtin
+785.916:0088:008c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winedevice.exe" at 0000000000400000: builtin
+785.916:0088:008c:trace:seh:install_bpf Seccomp filters already installed.
+785.919:0088:008c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00007F568BC70000: builtin
+785.919:0088:008c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 0000000061900000: builtin
+785.919:0088:008c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 00007F568BE90000: builtin
+785.920:0088:008c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00007F568BB70000: builtin
+785.921:0088:008c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ntoskrnl.exe" at 0000000067A00000: builtin
+785.942:0088:008c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 000000006FBC0000: builtin
+785.959:0088:0098:trace:seh:NtQueryInformationThread (0xfffffffffffffffe,0,0x1a8f7b0,30,(nil))
+785.978:0088:0094:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\mountmgr.sys" at 00007F568BB00000: builtin
+785.990:0088:0094:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 0000000065780000: builtin
+785.990:0088:0094:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000006A700000: builtin
+786.003:0088:0098:trace:seh:NtQueryInformationThread (0x64,0,0x1a8f750,30,(nil))
+786.054:0088:00a0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 00007F568B420000: builtin
+786.055:0088:00a0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 00007F568B5E0000: builtin
+786.066:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 00007FC8AF3C0000: builtin
+786.068:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 000000006FBC0000: builtin
+786.072:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 0000000065780000: builtin
+786.072:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000006A700000: builtin
+786.072:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 00007FC8AF130000: builtin
+786.072:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 0000000065000000: builtin
+786.072:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shcore.dll" at 0000000064940000: builtin
+786.072:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shlwapi.dll" at 0000000068A40000: builtin
+786.072:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shell32.dll" at 00007FC8AF570000: builtin
+786.169:0088:00a0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 0000000065000000: builtin
+786.169:0088:00a0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 000000006BEC0000: builtin
+786.242:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 000000006BEC0000: builtin
+786.246:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ntdll.dll" at 7BC00000: builtin
+786.247:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 7B000000: builtin
+786.247:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 7B620000: builtin
+786.254:0020:0024:trace:loaddll:build_module Loaded L"C:\\Program Files (x86)\\Steam\\steam.exe" at 7EB40000: builtin
+786.258:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 7E990000: builtin
+786.258:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 61B00000: builtin
+786.258:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 7EA80000: builtin
+786.260:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 7E820000: builtin
+786.265:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 6FDC0000: builtin
+786.269:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 65980000: builtin
+786.269:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 6A900000: builtin
+786.269:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 7E5F0000: builtin
+786.269:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 65200000: builtin
+786.285:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shcore.dll" at 64B40000: builtin
+786.285:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shlwapi.dll" at 68C40000: builtin
+786.285:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shell32.dll" at 7D440000: builtin
+786.407:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 6C0C0000: builtin
+786.421:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ntdll.dll" at 000000007BC00000: builtin
+786.422:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+786.423:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B610000: builtin
+786.423:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\explorer.exe" at 0000000000400000: builtin
+786.423:00a8:00ac:trace:seh:check_bpf_jit_enable enabled 0x31.
+786.426:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00007FAB7A1F0000: builtin
+786.426:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 0000000061900000: builtin
+786.426:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 00007FAB7A410000: builtin
+786.427:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 00007FAB7A020000: builtin
+786.427:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 000000006FBC0000: builtin
+786.430:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 0000000065780000: builtin
+786.430:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000006A700000: builtin
+786.430:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 00007FAB79D90000: builtin
+Setting breakpad minidump AppID = 205590
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561198001276454 [API loaded no]
+786.556:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 0000000065000000: builtin
+786.557:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 000000006BEC0000: builtin
+786.566:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winex11.drv" at 00007FAB79900000: builtin
+WARNING: radv is not a conformant vulkan implementation, testing use only.
+786.963:00b4:00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ntdll.dll" at 000000007BC00000: builtin
+786.964:00b4:00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+786.964:00b4:00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B610000: builtin
+786.965:00b4:00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\explorer.exe" at 0000000000400000: builtin
+786.965:00b4:00b8:trace:seh:check_bpf_jit_enable enabled 0x31.
+786.972:00b4:00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00007F9AA35D0000: builtin
+786.972:00b4:00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 0000000061900000: builtin
+786.972:00b4:00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 00007F9AA37F0000: builtin
+786.973:00b4:00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 00007F9AA3400000: builtin
+786.978:00b4:00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 000000006FBC0000: builtin
+786.986:00b4:00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 0000000065780000: builtin
+786.986:00b4:00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000006A700000: builtin
+786.986:00b4:00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 00007F9AA3170000: builtin
+786.988:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shcore.dll" at 0000000064940000: builtin
+786.988:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shlwapi.dll" at 0000000068A40000: builtin
+786.988:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shell32.dll" at 00007FAB78300000: builtin
+787.018:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\oleaut32.dll" at 000000006A100000: builtin
+787.018:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\actxprxy.dll" at 00000000020A0000: builtin
+787.020:0020:00a4:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winex11.drv" at F5E90000: builtin
+787.140:00b4:00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 0000000065000000: builtin
+787.140:00b4:00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 000000006BEC0000: builtin
+787.150:00b4:00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winex11.drv" at 00007F9AA2CE0000: builtin
+787.182:00b4:00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shcore.dll" at 0000000064940000: builtin
+787.182:00b4:00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shlwapi.dll" at 0000000068A40000: builtin
+787.182:00b4:00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shell32.dll" at 00007F9AA1860000: builtin
+787.192:00b4:00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\oleaut32.dll" at 000000006A100000: builtin
+787.192:00b4:00b8:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\actxprxy.dll" at 0000000001690000: builtin
+ERROR: ld.so: object '/home/ioannis/.steam/debian-installation/ubuntu12_64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+787.243:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ntdll.dll" at 7BC00000: builtin
+787.244:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 7B000000: builtin
+787.244:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 7B620000: builtin
+787.257:00cc:00d0:trace:loaddll:build_module Loaded L"Z:\\home\\ioannis\\.steam\\debian-installation\\steamapps\\common\\Legends of Pegasus\\LoP.exe" at 00400000: native
+787.260:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\WS2_32.dll" at 7EB50000: builtin
+787.275:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 7E7B0000: builtin
+787.275:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 61B00000: builtin
+787.275:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 7E8B0000: builtin
+787.276:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 6FDC0000: builtin
+787.277:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 65980000: builtin
+787.277:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 6A900000: builtin
+787.278:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 7E650000: builtin
+787.278:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\USER32.dll" at 7E930000: builtin
+787.285:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\MSVCR100.dll" at 78AA0000: native
+787.285:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\MSVCP100.dll" at 78050000: native
+787.285:00cc:00d0:trace:loaddll:build_module Loaded L"Z:\\home\\ioannis\\.steam\\debian-installation\\steamapps\\common\\Legends of Pegasus\\OgreMain.dll" at 10000000: native
+787.299:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 65200000: builtin
+787.299:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 6C0C0000: builtin
+787.300:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\usp10.dll" at 62800000: builtin
+787.300:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\comctl32.dll" at 6E8C0000: builtin
+787.301:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\hid.dll" at 64D80000: builtin
+787.301:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\DINPUT8.dll" at 7E5C0000: builtin
+787.301:00cc:00d0:trace:loaddll:build_module Loaded L"Z:\\home\\ioannis\\.steam\\debian-installation\\steamapps\\common\\Legends of Pegasus\\OIS.dll" at 00330000: native
+787.305:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msacm32.dll" at 66640000: builtin
+787.305:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\WINMM.dll" at 639C0000: builtin
+787.305:00cc:00d0:trace:loaddll:build_module Loaded L"Z:\\home\\ioannis\\.steam\\debian-installation\\steamapps\\common\\Legends of Pegasus\\irrKlang.dll" at 00350000: native
+787.315:00cc:00d0:trace:loaddll:build_module Loaded L"Z:\\home\\ioannis\\.steam\\debian-installation\\steamapps\\common\\Legends of Pegasus\\ParticleUniverse.dll" at 011D0000: native
+787.332:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shcore.dll" at 64B40000: builtin
+787.332:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shlwapi.dll" at 68C40000: builtin
+787.332:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\SHELL32.dll" at 7C620000: builtin
+787.333:00cc:00d0:trace:loaddll:build_module Loaded L"Z:\\home\\ioannis\\.steam\\debian-installation\\steamapps\\common\\Legends of Pegasus\\steam_api.dll" at 3B400000: native
+787.335:00cc:00d0:trace:loaddll:build_module Loaded L"Z:\\home\\ioannis\\.steam\\debian-installation\\steamapps\\common\\Legends of Pegasus\\psai.dll" at 016C0000: native
+787.451:00cc:00d0:trace:seh:NtQueryInformationThread (0xfffffffe,1,0x31e5d0,20,(nil))
+787.454:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winex11.drv" at 7D7F0000: builtin
+787.469:00cc:00d0:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\uxtheme.dll" at 62340000: builtin
+787.470:00cc:00d0:trace:seh:dispatch_exception code=c0000005 flags=0 addr=0076994C ip=0076994c tid=00d0
+787.470:00cc:00d0:trace:seh:dispatch_exception  info[0]=00000000
+787.470:00cc:00d0:trace:seh:dispatch_exception  info[1]=ffffffff
+787.470:00cc:00d0:trace:seh:dispatch_exception  eax=007699ab ebx=00400000 ecx=0030ebf9 edx=0031ec18 esi=0063d794 edi=0031fd24
+787.470:00cc:00d0:trace:seh:dispatch_exception  ebp=0031ebd8 esp=0031ebb8 cs=0023 ds=002b es=002b fs=0063 gs=006b flags=00010a93
+787.470:00cc:00d0:trace:seh:call_vectored_handlers calling handler at 7B637B70 code=c0000005 flags=0
+787.470:00cc:00d0:trace:seh:call_vectored_handlers handler at 7B637B70 returned 0
+787.470:00cc:00d0:trace:seh:call_stack_handlers calling handler at 7BC6AB60 code=c0000005 flags=0
+787.470:00cc:00d0:trace:seh:__regs_RtlUnwind code=c0000005 flags=2
+787.470:00cc:00d0:trace:seh:__regs_RtlUnwind eax=00000000 ebx=0031eb60 ecx=c0000005 edx=0031ec18 esi=0031e894 edi=0031ec18
+787.470:00cc:00d0:trace:seh:__regs_RtlUnwind ebp=0031e78c esp=0031e784 eip=7bc6aa0e cs=0023 ds=002b fs=0063 gs=006b flags=00000206
+787.470:00cc:00d0:trace:seh:__regs_RtlUnwind calling handler at 7BC5CE40 code=c0000005 flags=2
+787.470:00cc:00d0:trace:seh:__regs_RtlUnwind handler at 7BC5CE40 returned 1
+787.470:00cc:00d0:trace:seh:dispatch_exception code=c0000005 flags=0 addr=A07BC39A ip=a07bc39a tid=00d0
+787.470:00cc:00d0:trace:seh:dispatch_exception  info[0]=00000000
+787.470:00cc:00d0:trace:seh:dispatch_exception  info[1]=a07bc39a
+787.470:00cc:00d0:trace:seh:dispatch_exception  eax=00000001 ebx=d87ffd80 ecx=0031ec28 edx=ffffffff esi=001112e0 edi=0031fd24
+787.470:00cc:00d0:trace:seh:dispatch_exception  ebp=150031ec esp=0031ec81 cs=0023 ds=002b es=002b fs=0063 gs=006b flags=00010246
+787.470:00cc:00d0:trace:seh:call_vectored_handlers calling handler at 7B637B70 code=c0000005 flags=0
+787.470:00cc:00d0:trace:seh:call_vectored_handlers handler at 7B637B70 returned 0
+787.470:00cc:00d0:err:seh:NtRaiseException Unhandled exception code c0000005 flags 0 addr 0xa07bc39a
+788.495:0058:0084:trace:seh:NtQueryInformationThread (0xfffffffffffffffe,12,0x32cfda0,4,(nil))
+788.501:003c:0074:trace:seh:NtQueryInformationThread (0xfffffffffffffffe,12,0x248fda0,4,(nil))
+788.507:0030:0090:trace:seh:NtQueryInformationThread (0xfffffffffffffffe,12,0x30cfda0,4,(nil))
+788.507:0058:0068:err:rpc:I_RpcReceive we got fault packet with status 0x1c010003
+788.507:0058:0068:trace:seh:dispatch_exception code=6b5 flags=0 addr=000000007B01193E ip=7b01193e tid=0068
+788.507:0058:0068:trace:seh:dispatch_exception  rax=000000007b0118f0 rbx=0000000001a8f1a8 rcx=0000000001a8eed0 rdx=0000000000000000
+788.507:0058:0068:trace:seh:dispatch_exception  rsi=00000000000000cc rdi=00000000000000be rbp=0000000000000000 rsp=0000000001a8eeb0
+788.507:0058:0068:trace:seh:dispatch_exception   r8=0000000000000000  r9=0000000000000000 r10=0000000001ab0020 r11=000000000000d020
+788.507:0058:0068:trace:seh:dispatch_exception  r12=0000000001a8f1a8 r13=0000000001b20050 r14=0000000000000000 r15=00000000ffba0000
+788.507:0058:0068:trace:seh:call_vectored_handlers calling handler at 0000000067A0D3E0 code=6b5 flags=0
+788.507:0058:0068:trace:seh:call_vectored_handlers handler at 0000000067A0D3E0 returned 0
+788.507:0058:0068:trace:seh:call_vectored_handlers calling handler at 000000007B636530 code=6b5 flags=0
+788.507:0058:0068:trace:seh:call_vectored_handlers handler at 000000007B636530 returned 0
+788.507:0058:0068:trace:seh:RtlVirtualUnwind type 1 rip 7b01193e rsp 1a8eeb0
+788.507:0058:0068:trace:seh:dump_unwind_info **** func 118f0-11977
+788.507:0058:0068:trace:seh:dump_unwind_info unwind info at 000000007B0A23A8 flags 0 prolog 0x11 bytes function 000000007B0118F0-000000007B011977
+788.507:003c:0054:trace:seh:NtQueryInformationThread (0xfffffffffffffffe,12,0x1e7fda0,4,(nil))
+788.507:0058:0068:trace:seh:dump_unwind_info     0x11: subq $0xc8,%rsp
+788.507:0058:0068:trace:seh:dump_unwind_info     0xa: pushq %rsi
+788.507:0058:0068:trace:seh:dump_unwind_info     0x9: pushq %rdi
+788.507:0058:0068:trace:seh:RtlVirtualUnwind type 1 rip 6fc067b1 rsp 1a8ef90
+788.507:0058:0068:trace:seh:dump_unwind_info **** func 467a0-467e5
+788.507:0058:0068:trace:seh:dump_unwind_info unwind info at 000000006FC29350 flags 0 prolog 0x4 bytes function 000000006FC067A0-000000006FC067E5
+788.507:0058:0068:trace:seh:dump_unwind_info     0x4: subq $0x28,%rsp
+788.507:0058:0068:trace:seh:RtlVirtualUnwind type 1 rip 6fbc9e54 rsp 1a8efc0
+788.507:0058:0068:trace:seh:dump_unwind_info **** func 9d60-9e55
+788.507:0058:0068:trace:seh:dump_unwind_info unwind info at 000000006FC27328 flags 0 prolog 0x6 bytes function 000000006FBC9D60-000000006FBC9E55
+788.507:0058:0068:trace:seh:dump_unwind_info     0x6: subq $0x38,%rsp
+788.507:0058:0068:trace:seh:dump_unwind_info     0x2: pushq %rbx
+788.507:0058:0068:trace:seh:dump_unwind_info     0x1: pushq %rsi
+788.507:0058:0068:trace:seh:RtlVirtualUnwind type 1 rip 67a21c9e rsp 1a8f010
+788.507:0058:0068:trace:seh:dump_unwind_info **** func 21ae0-21d00
+788.507:0058:0068:trace:seh:dump_unwind_info unwind info at 0000000067A33DE4 flags 0 prolog 0xe bytes function 0000000067A21AE0-0000000067A21D00
+788.507:0058:0068:trace:seh:dump_unwind_info     0xe: subq $0x330,%rsp
+788.507:0058:0068:trace:seh:dump_unwind_info     0x7: pushq %rbx
+788.507:0058:0068:trace:seh:dump_unwind_info     0x6: pushq %rsi
+788.507:0058:0068:trace:seh:dump_unwind_info     0x5: pushq %rdi
+788.507:0058:0068:trace:seh:dump_unwind_info     0x4: pushq %r12
+788.507:0058:0068:trace:seh:dump_unwind_info     0x2: pushq %r13
+788.507:0058:0068:trace:seh:call_stack_handlers found wine frame 0000000001A8F080 rsp 1a8f370 handler 0000000067A215A0
+788.507:0058:0068:trace:seh:call_teb_handler calling TEB handler 0000000067A215A0 (rec=0000000001A8EED0, frame=0000000001A8F080 context=0000000001A8E400, dispatch=0000000001A8E2D0)
+788.507:0058:0068:trace:seh:call_teb_handler handler at 0000000067A215A0 returned 1
+788.507:0058:0068:trace:seh:RtlVirtualUnwind type 1 rip 67a19f95 rsp 1a8f370
+788.507:0058:0068:trace:seh:dump_unwind_info **** func 19ec0-19fa6
+788.507:0058:0068:trace:seh:dump_unwind_info unwind info at 0000000067A339E0 flags 0 prolog 0x8 bytes function 0000000067A19EC0-0000000067A19FA6
+788.507:0058:0068:trace:seh:dump_unwind_info     0x8: subq $0x160,%rsp
+788.507:0058:0068:trace:seh:dump_unwind_info     0x1: pushq %rbx
+788.507:0058:0068:trace:seh:call_stack_handlers found wine frame 0000000001A8F3A0 rsp 1a8f4e0 handler 0000000067A22F50
+788.507:0058:0068:trace:seh:call_teb_handler calling TEB handler 0000000067A22F50 (rec=0000000001A8EED0, frame=0000000001A8F3A0 context=0000000001A8E400, dispatch=0000000001A8E2D0)
+788.507:0058:0068:trace:seh:RtlUnwindEx code=6b5 flags=2 end_frame=0000000001A8F3A0 target_ip=0000000067A22EE6 rip=000000007bc61d52
+788.507:0058:0068:trace:seh:RtlUnwindEx  rax=00000000ffba0000 rbx=0000000001a8f080 rcx=0000000001a8dcd0 rdx=0000000067a22ee6
+788.507:0058:0068:trace:seh:RtlUnwindEx  rsi=0000000001a8e9d0 rdi=0000000001a8e400 rbp=0000000001a8d780 rsp=0000000001a8d600
+788.507:0058:0068:trace:seh:RtlUnwindEx   r8=0000000001a8eed0  r9=0000000067a22f20 r10=0000000001a8e0e0 r11=0000000000025590
+788.507:0058:0068:trace:seh:RtlUnwindEx  r12=0000000001a8eed0 r13=0000000001a8dcd0 r14=0000000001a8f3a0 r15=0000000001a8eed0
+788.507:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 7bc61d52 rsp 1a8d600
+788.507:0058:0068:trace:seh:dump_unwind_info **** func 61d00-625ce
+788.507:0058:0068:trace:seh:dump_unwind_info unwind info at 000000007BC8C930 flags 0 prolog 0x13 bytes function 000000007BC61D00-000000007BC625CE
+788.507:0058:0068:trace:seh:dump_unwind_info     0x13: subq $0x658,%rsp
+788.507:0058:0068:trace:seh:dump_unwind_info     0xc: pushq %rbx
+788.507:0058:0068:trace:seh:dump_unwind_info     0xb: pushq %rsi
+788.507:0058:0068:trace:seh:dump_unwind_info     0xa: pushq %rdi
+788.507:0058:0068:trace:seh:dump_unwind_info     0x9: pushq %rbp
+788.507:0058:0068:trace:seh:dump_unwind_info     0x8: pushq %r12
+788.507:0058:0068:trace:seh:dump_unwind_info     0x6: pushq %r13
+788.507:0058:0068:trace:seh:dump_unwind_info     0x4: pushq %r14
+788.507:0058:0068:trace:seh:dump_unwind_info     0x2: pushq %r15
+788.507:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 7bc625ef rsp 1a8dca0
+788.507:0058:0068:trace:seh:dump_unwind_info **** func 625d0-625f8
+788.507:0058:0068:trace:seh:dump_unwind_info unwind info at 000000007BC8C948 flags 0 prolog 0x7 bytes function 000000007BC625D0-000000007BC625F8
+788.507:0058:0068:trace:seh:dump_unwind_info     0x7: subq $0x508,%rsp
+788.507:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 67a22ee6 rsp 1a8e1b0
+788.507:0058:0068:trace:seh:dump_unwind_info **** func 22ecc-22ee8
+788.507:0058:0068:trace:seh:dump_unwind_info unwind info at 0000000067A33E90 flags 0 prolog 0x8 bytes function 0000000067A22ECC-0000000067A22EE8
+788.507:0058:0068:trace:seh:dump_unwind_info     frame register rbp offset 0x0(%rsp)
+788.507:0058:0068:trace:seh:dump_unwind_info     0x8: subq $0x20,%rsp
+788.507:0058:0068:trace:seh:dump_unwind_info     0x4: leaq 0x0(%rsp),rbp
+788.507:0058:0068:trace:seh:dump_unwind_info     0x1: pushq %rbp
+788.507:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 67a22f19 rsp 1a8e1e0
+788.507:0058:0068:trace:seh:dump_unwind_info **** func 22ef0-22f1a
+788.507:0058:0068:trace:seh:dump_unwind_info unwind info at 0000000067A33E9C flags 0 prolog 0x4 bytes function 0000000067A22EF0-0000000067A22F1A
+788.507:0058:0068:trace:seh:dump_unwind_info     0x4: subq $0x28,%rsp
+788.507:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 67a22fa4 rsp 1a8e210
+788.507:0058:0068:trace:seh:dump_unwind_info **** func 22f50-22fa5
+788.507:0058:0068:trace:seh:dump_unwind_info unwind info at 0000000067A33EAC flags 0 prolog 0xa bytes function 0000000067A22F50-0000000067A22FA5
+788.507:0058:0068:trace:seh:dump_unwind_info     0xa: subq $0x30,%rsp
+788.507:0058:0068:trace:seh:dump_unwind_info     0x6: pushq %r12
+788.507:0058:0068:trace:seh:dump_unwind_info     0x4: pushq %r13
+788.507:0058:0068:trace:seh:dump_unwind_info     0x2: pushq %r14
+788.507:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 7bc6146f rsp 1a8e260
+788.507:0058:0068:trace:seh:dump_unwind_info **** func 611a0-616e1
+788.507:0058:0068:trace:seh:dump_unwind_info unwind info at 000000007BC8C8F0 flags 0 prolog 0x13 bytes function 000000007BC611A0-000000007BC616E1
+788.507:0058:0068:trace:seh:dump_unwind_info     0x13: subq $0x678,%rsp
+788.507:0058:0068:trace:seh:dump_unwind_info     0xc: pushq %rbx
+788.507:0058:0068:trace:seh:dump_unwind_info     0xb: pushq %rsi
+788.507:0058:0068:trace:seh:dump_unwind_info     0xa: pushq %rdi
+788.507:0058:0068:trace:seh:dump_unwind_info     0x9: pushq %rbp
+788.507:0058:0068:trace:seh:dump_unwind_info     0x8: pushq %r12
+788.507:0058:0068:trace:seh:dump_unwind_info     0x6: pushq %r13
+788.507:0058:0068:trace:seh:dump_unwind_info     0x4: pushq %r14
+788.507:0058:0068:trace:seh:dump_unwind_info     0x2: pushq %r15
+788.507:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 7bc617be rsp 1a8e920
+788.507:0058:0068:trace:seh:dump_unwind_info **** func 616f0-61a29
+788.507:0058:0068:trace:seh:dump_unwind_info unwind info at 000000007BC8C908 flags 0 prolog 0xe bytes function 000000007BC616F0-000000007BC61A29
+788.507:0058:0068:trace:seh:dump_unwind_info     0xe: subq $0x50,%rsp
+788.507:0058:0068:trace:seh:dump_unwind_info     0xa: pushq %rbx
+788.507:0058:0068:trace:seh:dump_unwind_info     0x9: pushq %rsi
+788.507:0058:0068:trace:seh:dump_unwind_info     0x8: pushq %rdi
+788.507:0058:0068:trace:seh:dump_unwind_info     0x7: pushq %rbp
+788.507:0058:0068:trace:seh:dump_unwind_info     0x6: pushq %r12
+788.507:0058:0068:trace:seh:dump_unwind_info     0x4: pushq %r13
+788.507:0058:0068:trace:seh:dump_unwind_info     0x2: pushq %r14
+788.507:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 7bc5fa58 rsp 1a8e9b0
+788.507:0058:0068:trace:seh:dump_unwind_info **** func 5f9f0-5fa65
+788.507:0058:0068:trace:seh:dump_unwind_info unwind info at 000000007BC8C870 flags 0 prolog 0x7 bytes function 000000007BC5F9F0-000000007BC5FA65
+788.507:0058:0068:trace:seh:dump_unwind_info     0x7: subq $0x4f8,%rsp
+788.507:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 7b01193e rsp 1a8eeb0
+788.507:0058:0068:trace:seh:dump_unwind_info **** func 118f0-11977
+788.507:0058:0068:trace:seh:dump_unwind_info unwind info at 000000007B0A23A8 flags 0 prolog 0x11 bytes function 000000007B0118F0-000000007B011977
+788.507:0058:0068:trace:seh:dump_unwind_info     0x11: subq $0xc8,%rsp
+788.507:0058:0068:trace:seh:dump_unwind_info     0xa: pushq %rsi
+788.507:0058:0068:trace:seh:dump_unwind_info     0x9: pushq %rdi
+788.507:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 6fc067b1 rsp 1a8ef90
+788.507:0058:0068:trace:seh:dump_unwind_info **** func 467a0-467e5
+788.507:0058:0068:trace:seh:dump_unwind_info unwind info at 000000006FC29350 flags 0 prolog 0x4 bytes function 000000006FC067A0-000000006FC067E5
+788.507:0058:0068:trace:seh:dump_unwind_info     0x4: subq $0x28,%rsp
+788.507:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 6fbc9e54 rsp 1a8efc0
+788.507:0058:0068:trace:seh:dump_unwind_info **** func 9d60-9e55
+788.507:0058:0068:trace:seh:dump_unwind_info unwind info at 000000006FC27328 flags 0 prolog 0x6 bytes function 000000006FBC9D60-000000006FBC9E55
+788.507:0058:0068:trace:seh:dump_unwind_info     0x6: subq $0x38,%rsp
+788.507:0058:0068:trace:seh:dump_unwind_info     0x2: pushq %rbx
+788.507:0058:0068:trace:seh:dump_unwind_info     0x1: pushq %rsi
+788.507:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 67a21c9e rsp 1a8f010
+788.507:0058:0068:trace:seh:dump_unwind_info **** func 21ae0-21d00
+788.507:0058:0068:trace:seh:dump_unwind_info unwind info at 0000000067A33DE4 flags 0 prolog 0xe bytes function 0000000067A21AE0-0000000067A21D00
+788.507:0058:0068:trace:seh:dump_unwind_info     0xe: subq $0x330,%rsp
+788.507:0058:0068:trace:seh:dump_unwind_info     0x7: pushq %rbx
+788.507:0058:0068:trace:seh:dump_unwind_info     0x6: pushq %rsi
+788.507:0058:0068:trace:seh:dump_unwind_info     0x5: pushq %rdi
+788.507:0058:0068:trace:seh:dump_unwind_info     0x4: pushq %r12
+788.507:0058:0068:trace:seh:dump_unwind_info     0x2: pushq %r13
+788.507:0058:0068:trace:seh:RtlUnwindEx found builtin frame 0000000001A8F080 handler 0000000067A215A0
+788.507:0058:0068:trace:seh:call_teb_unwind_handler calling TEB handler 0000000067A215A0 (rec=0000000001A8EED0, frame=0000000001A8F080 context=0000000001A8DCD0, dispatch=0000000001A8D690)
+788.507:0058:0068:trace:seh:call_teb_unwind_handler handler at 0000000067A215A0 returned 1
+788.507:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 67a19f95 rsp 1a8f370
+788.507:0058:0068:trace:seh:dump_unwind_info **** func 19ec0-19fa6
+788.507:0058:0068:trace:seh:dump_unwind_info unwind info at 0000000067A339E0 flags 0 prolog 0x8 bytes function 0000000067A19EC0-0000000067A19FA6
+788.507:0058:0068:trace:seh:dump_unwind_info     0x8: subq $0x160,%rsp
+788.507:0058:0068:trace:seh:dump_unwind_info     0x1: pushq %rbx
+788.507:0058:0068:trace:seh:RtlRestoreContext returning to 67a22ee6 stack 1a8f370
+788.509:0058:0068:trace:seh:dispatch_exception code=6ba flags=0 addr=000000007B01193E ip=7b01193e tid=0068
+788.509:0058:0068:trace:seh:dispatch_exception  rax=000000007b0118f0 rbx=0000000001a8f1a8 rcx=0000000001a8eed0 rdx=0000000000000000
+788.509:0058:0068:trace:seh:dispatch_exception  rsi=00000000000000cc rdi=00000000000000be rbp=0000000000000000 rsp=0000000001a8eeb0
+788.509:0058:0068:trace:seh:dispatch_exception   r8=0000000000000000  r9=0000000000000000 r10=0000000001aa0000 r11=0000000000000000
+788.509:0058:0068:trace:seh:dispatch_exception  r12=0000000001a8f1a8 r13=0000000001b20050 r14=0000000000000000 r15=00000000ffba0000
+788.509:0058:0068:trace:seh:call_vectored_handlers calling handler at 0000000067A0D3E0 code=6ba flags=0
+788.509:0058:0068:trace:seh:call_vectored_handlers handler at 0000000067A0D3E0 returned 0
+788.509:0058:0068:trace:seh:call_vectored_handlers calling handler at 000000007B636530 code=6ba flags=0
+788.509:0058:0068:trace:seh:call_vectored_handlers handler at 000000007B636530 returned 0
+788.509:0058:0068:trace:seh:RtlVirtualUnwind type 1 rip 7b01193e rsp 1a8eeb0
+788.509:0058:0068:trace:seh:dump_unwind_info **** func 118f0-11977
+788.509:0058:0068:trace:seh:dump_unwind_info unwind info at 000000007B0A23A8 flags 0 prolog 0x11 bytes function 000000007B0118F0-000000007B011977
+788.509:0058:0068:trace:seh:dump_unwind_info     0x11: subq $0xc8,%rsp
+788.509:0058:0068:trace:seh:dump_unwind_info     0xa: pushq %rsi
+788.509:0058:0068:trace:seh:dump_unwind_info     0x9: pushq %rdi
+788.509:0058:0068:trace:seh:RtlVirtualUnwind type 1 rip 6fc067b1 rsp 1a8ef90
+788.509:0058:0068:trace:seh:dump_unwind_info **** func 467a0-467e5
+788.509:0058:0068:trace:seh:dump_unwind_info unwind info at 000000006FC29350 flags 0 prolog 0x4 bytes function 000000006FC067A0-000000006FC067E5
+788.509:0058:0068:trace:seh:dump_unwind_info     0x4: subq $0x28,%rsp
+788.509:0058:0068:trace:seh:RtlVirtualUnwind type 1 rip 6fbc9e54 rsp 1a8efc0
+788.509:0058:0068:trace:seh:dump_unwind_info **** func 9d60-9e55
+788.509:0058:0068:trace:seh:dump_unwind_info unwind info at 000000006FC27328 flags 0 prolog 0x6 bytes function 000000006FBC9D60-000000006FBC9E55
+788.509:0058:0068:trace:seh:dump_unwind_info     0x6: subq $0x38,%rsp
+788.509:0058:0068:trace:seh:dump_unwind_info     0x2: pushq %rbx
+788.509:0058:0068:trace:seh:dump_unwind_info     0x1: pushq %rsi
+788.509:0058:0068:trace:seh:RtlVirtualUnwind type 1 rip 67a21c9e rsp 1a8f010
+788.509:0058:0068:trace:seh:dump_unwind_info **** func 21ae0-21d00
+788.509:0058:0068:trace:seh:dump_unwind_info unwind info at 0000000067A33DE4 flags 0 prolog 0xe bytes function 0000000067A21AE0-0000000067A21D00
+788.509:0058:0068:trace:seh:dump_unwind_info     0xe: subq $0x330,%rsp
+788.509:0058:0068:trace:seh:dump_unwind_info     0x7: pushq %rbx
+788.509:0058:0068:trace:seh:dump_unwind_info     0x6: pushq %rsi
+788.509:0058:0068:trace:seh:dump_unwind_info     0x5: pushq %rdi
+788.509:0058:0068:trace:seh:dump_unwind_info     0x4: pushq %r12
+788.509:0058:0068:trace:seh:dump_unwind_info     0x2: pushq %r13
+788.509:0058:0068:trace:seh:call_stack_handlers found wine frame 0000000001A8F080 rsp 1a8f370 handler 0000000067A215A0
+788.509:0058:0068:trace:seh:call_teb_handler calling TEB handler 0000000067A215A0 (rec=0000000001A8EED0, frame=0000000001A8F080 context=0000000001A8E400, dispatch=0000000001A8E2D0)
+788.509:0058:0068:trace:seh:call_teb_handler handler at 0000000067A215A0 returned 1
+788.509:0058:0068:trace:seh:RtlVirtualUnwind type 1 rip 67a19f95 rsp 1a8f370
+788.509:0058:0068:trace:seh:dump_unwind_info **** func 19ec0-19fa6
+788.509:0058:0068:trace:seh:dump_unwind_info unwind info at 0000000067A339E0 flags 0 prolog 0x8 bytes function 0000000067A19EC0-0000000067A19FA6
+788.509:0058:0068:trace:seh:dump_unwind_info     0x8: subq $0x160,%rsp
+788.509:0058:0068:trace:seh:dump_unwind_info     0x1: pushq %rbx
+788.509:0058:0068:trace:seh:call_stack_handlers found wine frame 0000000001A8F3A0 rsp 1a8f4e0 handler 0000000067A22F50
+788.509:0058:0068:trace:seh:call_teb_handler calling TEB handler 0000000067A22F50 (rec=0000000001A8EED0, frame=0000000001A8F3A0 context=0000000001A8E400, dispatch=0000000001A8E2D0)
+788.509:0058:0068:trace:seh:RtlUnwindEx code=6ba flags=2 end_frame=0000000001A8F3A0 target_ip=0000000067A22EE6 rip=000000007bc61d52
+788.509:0058:0068:trace:seh:RtlUnwindEx  rax=00000000ffba0000 rbx=0000000001a8f080 rcx=0000000001a8dcd0 rdx=0000000067a22ee6
+788.509:0058:0068:trace:seh:RtlUnwindEx  rsi=0000000001a8e9d0 rdi=0000000001a8e400 rbp=0000000001a8d780 rsp=0000000001a8d600
+788.509:0058:0068:trace:seh:RtlUnwindEx   r8=0000000001a8eed0  r9=0000000067a22f20 r10=000000006964202c r11=0000000000000000
+788.509:0058:0068:trace:seh:RtlUnwindEx  r12=0000000001a8eed0 r13=0000000001a8dcd0 r14=0000000001a8f3a0 r15=0000000001a8eed0
+788.509:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 7bc61d52 rsp 1a8d600
+788.509:0058:0068:trace:seh:dump_unwind_info **** func 61d00-625ce
+788.509:0058:0068:trace:seh:dump_unwind_info unwind info at 000000007BC8C930 flags 0 prolog 0x13 bytes function 000000007BC61D00-000000007BC625CE
+788.509:0058:0068:trace:seh:dump_unwind_info     0x13: subq $0x658,%rsp
+788.509:0058:0068:trace:seh:dump_unwind_info     0xc: pushq %rbx
+788.509:0058:0068:trace:seh:dump_unwind_info     0xb: pushq %rsi
+788.509:0058:0068:trace:seh:dump_unwind_info     0xa: pushq %rdi
+788.509:0058:0068:trace:seh:dump_unwind_info     0x9: pushq %rbp
+788.509:0058:0068:trace:seh:dump_unwind_info     0x8: pushq %r12
+788.509:0058:0068:trace:seh:dump_unwind_info     0x6: pushq %r13
+788.509:0058:0068:trace:seh:dump_unwind_info     0x4: pushq %r14
+788.509:0058:0068:trace:seh:dump_unwind_info     0x2: pushq %r15
+788.510:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 7bc625ef rsp 1a8dca0
+788.510:0058:0068:trace:seh:dump_unwind_info **** func 625d0-625f8
+788.510:0058:0068:trace:seh:dump_unwind_info unwind info at 000000007BC8C948 flags 0 prolog 0x7 bytes function 000000007BC625D0-000000007BC625F8
+788.510:0058:0068:trace:seh:dump_unwind_info     0x7: subq $0x508,%rsp
+788.510:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 67a22ee6 rsp 1a8e1b0
+788.510:0058:0068:trace:seh:dump_unwind_info **** func 22ecc-22ee8
+788.510:0058:0068:trace:seh:dump_unwind_info unwind info at 0000000067A33E90 flags 0 prolog 0x8 bytes function 0000000067A22ECC-0000000067A22EE8
+788.510:0058:0068:trace:seh:dump_unwind_info     frame register rbp offset 0x0(%rsp)
+788.510:0058:0068:trace:seh:dump_unwind_info     0x8: subq $0x20,%rsp
+788.510:0058:0068:trace:seh:dump_unwind_info     0x4: leaq 0x0(%rsp),rbp
+788.510:0058:0068:trace:seh:dump_unwind_info     0x1: pushq %rbp
+788.510:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 67a22f19 rsp 1a8e1e0
+788.510:0058:0068:trace:seh:dump_unwind_info **** func 22ef0-22f1a
+788.510:0058:0068:trace:seh:dump_unwind_info unwind info at 0000000067A33E9C flags 0 prolog 0x4 bytes function 0000000067A22EF0-0000000067A22F1A
+788.510:0058:0068:trace:seh:dump_unwind_info     0x4: subq $0x28,%rsp
+788.510:0030:009c:trace:seh:NtQueryInformationThread (0xfffffffffffffffe,12,0x36dfda0,4,(nil))
+788.510:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 67a22fa4 rsp 1a8e210
+788.510:0058:0068:trace:seh:dump_unwind_info **** func 22f50-22fa5
+788.510:0058:0068:trace:seh:dump_unwind_info unwind info at 0000000067A33EAC flags 0 prolog 0xa bytes function 0000000067A22F50-0000000067A22FA5
+788.510:0058:0068:trace:seh:dump_unwind_info     0xa: subq $0x30,%rsp
+788.510:0058:0068:trace:seh:dump_unwind_info     0x6: pushq %r12
+788.510:0058:0068:trace:seh:dump_unwind_info     0x4: pushq %r13
+788.510:0058:0068:trace:seh:dump_unwind_info     0x2: pushq %r14
+788.510:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 7bc6146f rsp 1a8e260
+788.510:0058:0068:trace:seh:dump_unwind_info **** func 611a0-616e1
+788.510:0058:0068:trace:seh:dump_unwind_info unwind info at 000000007BC8C8F0 flags 0 prolog 0x13 bytes function 000000007BC611A0-000000007BC616E1
+788.510:0058:0068:trace:seh:dump_unwind_info     0x13: subq $0x678,%rsp
+788.510:0058:0068:trace:seh:dump_unwind_info     0xc: pushq %rbx
+788.510:0058:0068:trace:seh:dump_unwind_info     0xb: pushq %rsi
+788.510:0058:0068:trace:seh:dump_unwind_info     0xa: pushq %rdi
+788.510:0058:0068:trace:seh:dump_unwind_info     0x9: pushq %rbp
+788.510:0058:0068:trace:seh:dump_unwind_info     0x8: pushq %r12
+788.510:0058:0068:trace:seh:dump_unwind_info     0x6: pushq %r13
+788.510:0058:0068:trace:seh:dump_unwind_info     0x4: pushq %r14
+788.510:0058:0068:trace:seh:dump_unwind_info     0x2: pushq %r15
+788.510:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 7bc617be rsp 1a8e920
+788.510:0058:0068:trace:seh:dump_unwind_info **** func 616f0-61a29
+788.510:0058:0068:trace:seh:dump_unwind_info unwind info at 000000007BC8C908 flags 0 prolog 0xe bytes function 000000007BC616F0-000000007BC61A29
+788.510:0058:0068:trace:seh:dump_unwind_info     0xe: subq $0x50,%rsp
+788.510:0058:0068:trace:seh:dump_unwind_info     0xa: pushq %rbx
+788.510:0058:0068:trace:seh:dump_unwind_info     0x9: pushq %rsi
+788.510:0058:0068:trace:seh:dump_unwind_info     0x8: pushq %rdi
+788.510:0058:0068:trace:seh:dump_unwind_info     0x7: pushq %rbp
+788.510:0058:0068:trace:seh:dump_unwind_info     0x6: pushq %r12
+788.510:0058:0068:trace:seh:dump_unwind_info     0x4: pushq %r13
+788.510:0058:0068:trace:seh:dump_unwind_info     0x2: pushq %r14
+788.510:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 7bc5fa58 rsp 1a8e9b0
+788.510:0058:0068:trace:seh:dump_unwind_info **** func 5f9f0-5fa65
+788.510:0058:0068:trace:seh:dump_unwind_info unwind info at 000000007BC8C870 flags 0 prolog 0x7 bytes function 000000007BC5F9F0-000000007BC5FA65
+788.510:0058:0068:trace:seh:dump_unwind_info     0x7: subq $0x4f8,%rsp
+788.510:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 7b01193e rsp 1a8eeb0
+788.510:0058:0068:trace:seh:dump_unwind_info **** func 118f0-11977
+788.510:0058:0068:trace:seh:dump_unwind_info unwind info at 000000007B0A23A8 flags 0 prolog 0x11 bytes function 000000007B0118F0-000000007B011977
+788.510:0058:0068:trace:seh:dump_unwind_info     0x11: subq $0xc8,%rsp
+788.510:0058:0068:trace:seh:dump_unwind_info     0xa: pushq %rsi
+788.510:0058:0068:trace:seh:dump_unwind_info     0x9: pushq %rdi
+788.510:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 6fc067b1 rsp 1a8ef90
+788.510:0058:0068:trace:seh:dump_unwind_info **** func 467a0-467e5
+788.510:0058:0068:trace:seh:dump_unwind_info unwind info at 000000006FC29350 flags 0 prolog 0x4 bytes function 000000006FC067A0-000000006FC067E5
+788.510:0058:0068:trace:seh:dump_unwind_info     0x4: subq $0x28,%rsp
+788.510:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 6fbc9e54 rsp 1a8efc0
+788.510:0058:0068:trace:seh:dump_unwind_info **** func 9d60-9e55
+788.510:0058:0068:trace:seh:dump_unwind_info unwind info at 000000006FC27328 flags 0 prolog 0x6 bytes function 000000006FBC9D60-000000006FBC9E55
+788.510:0058:0068:trace:seh:dump_unwind_info     0x6: subq $0x38,%rsp
+788.510:0058:0068:trace:seh:dump_unwind_info     0x2: pushq %rbx
+788.510:0058:0068:trace:seh:dump_unwind_info     0x1: pushq %rsi
+788.510:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 67a21c9e rsp 1a8f010
+788.510:0058:0068:trace:seh:dump_unwind_info **** func 21ae0-21d00
+788.510:0058:0068:trace:seh:dump_unwind_info unwind info at 0000000067A33DE4 flags 0 prolog 0xe bytes function 0000000067A21AE0-0000000067A21D00
+788.510:0058:0068:trace:seh:dump_unwind_info     0xe: subq $0x330,%rsp
+788.510:0058:0068:trace:seh:dump_unwind_info     0x7: pushq %rbx
+788.510:0058:0068:trace:seh:dump_unwind_info     0x6: pushq %rsi
+788.510:0058:0068:trace:seh:dump_unwind_info     0x5: pushq %rdi
+788.510:0058:0068:trace:seh:dump_unwind_info     0x4: pushq %r12
+788.510:0058:0068:trace:seh:dump_unwind_info     0x2: pushq %r13
+788.510:0058:0068:trace:seh:RtlUnwindEx found builtin frame 0000000001A8F080 handler 0000000067A215A0
+788.510:0058:0068:trace:seh:call_teb_unwind_handler calling TEB handler 0000000067A215A0 (rec=0000000001A8EED0, frame=0000000001A8F080 context=0000000001A8DCD0, dispatch=0000000001A8D690)
+788.510:0058:0068:trace:seh:call_teb_unwind_handler handler at 0000000067A215A0 returned 1
+788.510:0058:0068:trace:seh:RtlVirtualUnwind type 2 rip 67a19f95 rsp 1a8f370
+788.510:0058:0068:trace:seh:dump_unwind_info **** func 19ec0-19fa6
+788.510:0058:0068:trace:seh:dump_unwind_info unwind info at 0000000067A339E0 flags 0 prolog 0x8 bytes function 0000000067A19EC0-0000000067A19FA6
+788.510:0058:0068:trace:seh:dump_unwind_info     0x8: subq $0x160,%rsp
+788.510:0058:0068:trace:seh:dump_unwind_info     0x1: pushq %rbx
+788.510:0058:0068:trace:seh:RtlRestoreContext returning to 67a22ee6 stack 1a8f370
+788.510:0058:0070:trace:seh:NtQueryInformationThread (0xfffffffffffffffe,12,0x209fda0,4,(nil))
+788.511:003c:0050:trace:seh:NtQueryInformationThread (0xfffffffffffffffe,12,0x186fda0,4,(nil))
+788.511:0058:007c:trace:seh:NtQueryInformationThread (0xfffffffffffffffe,12,0x26afda0,4,(nil))
+788.512:0058:0080:trace:seh:NtQueryInformationThread (0xfffffffffffffffe,12,0x2cbfda0,4,(nil))
+788.514:0058:0068:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\drivers\\winebus.sys" : builtin
+788.518:0058:0068:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\drivers\\wineusb.sys" : builtin
+788.521:0058:0068:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\drivers\\winehid.sys" : builtin
+788.521:0058:0068:trace:loaddll:free_modref Unloaded module L"C:\\windows\\system32\\hidclass.sys" : builtin
+788.523:0058:0068:trace:seh:NtQueryInformationThread (0xfffffffffffffffe,12,0x1a8fda0,4,(nil))
+788.604:0030:0060:trace:seh:NtQueryInformationThread (0xfffffffffffffffe,12,0x24afda0,4,(nil))
+788.604:0030:006c:trace:seh:NtQueryInformationThread (0xfffffffffffffffe,12,0x2abfda0,4,(nil))
+788.606:0030:0044:trace:seh:NtQueryInformationThread (0xfffffffffffffffe,12,0x188fda0,4,(nil))
+788.606:0030:0038:trace:seh:NtQueryInformationThread (0xfffffffffffffffe,12,0x127fda0,4,(nil))
+pid 8588 != 8587, skipping destruction (fork without exec?)
