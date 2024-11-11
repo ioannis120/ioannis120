@@ -1,0 +1,96 @@
+Computer Information:
+Manufacturer: LENOVO
+Model: LNVNB161216
+Form Factor: Laptop
+No Touch Input Detected
+Processor Information:
+CPU Vendor: AuthenticAMD
+CPU Brand: AMD Ryzen 7 5800H with Radeon Graphics
+CPU Family: 0x19
+CPU Model: 0x50
+CPU Stepping: 0x0
+CPU Type: 0x0
+Speed: 4463 MHz
+16 logical processors
+8 physical processors
+Hyper-threading: Supported
+FCMOV: Supported
+SSE2: Supported
+SSE3: Supported
+SSSE3: Supported
+SSE4a: Supported
+SSE41: Supported
+SSE42: Supported
+AES: Supported
+AVX: Supported
+AVX2: Supported
+AVX512F: Unsupported
+AVX512PF: Unsupported
+AVX512ER: Unsupported
+AVX512CD: Unsupported
+AVX512VNNI: Unsupported
+SHA: Supported
+CMPXCHG16B: Supported
+LAHF/SAHF: Supported
+PrefetchW: Unsupported
+BMI1: Supported
+BMI2: Supported
+F16C: Supported
+FMA: Supported
+Operating System Version:
+Linux Mint 22 (64 bit)
+Kernel Name: Linux
+Kernel Version: 6.8.0-48-generic
+X Server Vendor: The X.Org Foundation
+X Server Release: 12101011
+X Window Manager: Mutter (Muffin)
+Steam Runtime Version: steam-runtime_0.20241024.105847
+Client Information:
+Version: 1730853027
+Browser GPU Acceleration Status: Enabled
+Browser Canvas: Enabled
+Browser Canvas out-of-process rasterization: Enabled
+Browser Direct Rendering Display Compositor: Disabled
+Browser Compositing: Enabled
+Browser Multiple Raster Threads: Enabled
+Browser OpenGL: Enabled
+Browser Rasterization: Enabled
+Browser Raw Draw: Disabled
+Browser Skia Graphite: Disabled
+Browser Video Decode: Enabled
+Browser Video Encode: Disabled
+Browser Vulkan: Disabled
+Browser WebGL: Enabled
+Browser WebGL2: Enabled
+Browser WebGPU: Disabled
+Browser WebNN: Disabled
+Video Card:
+Driver: AMD AMD Radeon Graphics (radeonsi, renoir, LLVM 17.0.6, DRM 3.57, 6.8.0-48-generic)
+Driver Version: 4.6 (Compatibility Profile) Mesa 24.0.9-0ubuntu0.2
+Desktop Color Depth: 24 bits per pixel
+Monitor Refresh Rate: 120 Hz
+VendorID: 0x1002
+DeviceID: 0x1638
+Revision Not Detected
+Number of Monitors: 1
+Number of Logical Video Cards: 1
+Primary Display Resolution: 1920 x 1080
+Desktop Resolution: 1920 x 1080
+Primary Display Size: 13.54" x 7.60" (15.51" diag), 34.4cm x 19.3cm (39.4cm diag)
+Primary VRAM: 2048 MB
+Sound card:
+Audio device: ATI R6xx HDMI
+Memory:
+RAM: 13824 Mb
+VR Hardware:
+VR Headset: None detected
+Miscellaneous:
+UI Language: English
+LANG: el_GR.UTF-8
+Total Hard Disk Space Available: 479118 MB
+Largest Free Hard Disk Block: 159601 MB
+Storage:
+Number of SSDs: 1
+SSD sizes: 512G
+Number of HDDs: 0
+Number of removable drives: 0
